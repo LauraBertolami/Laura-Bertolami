@@ -1,4 +1,4 @@
 # About Laura Bertolami
 
 [Mechanical Page](/mechanical.md)
-![alt text](image.jpg)
+![Picture of Laura Bertolami](Laura-Bertolami/Bertolami Headshot.jpg)
