@@ -1,3 +1,3 @@
 # About Laura Bertolami
 
-[Mechanical Page](LauraBertolami/Laura-Bertolami/mechanical.md)
+[Mechanical Page](Laura-Bertolami/mechanical.md)
